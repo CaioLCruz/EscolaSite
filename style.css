@@ -37,9 +37,8 @@ section nav{
 
 footer{
     padding: 5px;
-    float: right;
     text-align: center;
-    background-color: blue;
+    background-color: orange;
 }
 
 p{
