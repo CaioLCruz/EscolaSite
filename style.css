@@ -61,4 +61,6 @@ li:hover{
 }
 a{
     font-size: 5vh;
+    justify-content: center;
+    text-align: center;
 }
