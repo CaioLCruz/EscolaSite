@@ -37,8 +37,9 @@ section nav{
 
 footer{
     padding: 10px;
-    float:right;
+    float:center;
     text-align:center;
+    height: 10px;
 }
 
 p{
