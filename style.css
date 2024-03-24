@@ -13,7 +13,7 @@ img{
 }
 
 nav li a{
-    padding: 20px;
+    padding: 18px;
     color:orange;
     text-decoration: none;
     font-weight: bold;
@@ -37,13 +37,13 @@ section nav{
 
 footer{
     padding: 5px;
-    float:center;
+    float:right;
     text-align:center;
 }
 
 p{
     text-align: justify;
-    padding: 5px 5px 5px 5px;
+    padding: 2px 2px 2px 2px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     color: black;
