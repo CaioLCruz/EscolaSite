@@ -13,7 +13,7 @@ img{
 }
 
 nav li a{
-    padding: 18px;
+    padding: 15px;
     color:orange;
     text-decoration: none;
     font-weight: bold;
@@ -32,7 +32,7 @@ nav ul{
 section nav{
     font-size: 18px;
     letter-spacing: 4px;
-    height: 50px;
+    height: 60px;
     background-color: blue;
 }
 
