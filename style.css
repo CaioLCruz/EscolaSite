@@ -17,7 +17,7 @@ nav li a{
     color:orange;
     text-decoration: none;
     font-weight: bold;
-    font-size: 2vh;
+    font-size: 4vh;
 }
 
 nav li{
@@ -40,6 +40,7 @@ footer{
     padding: 5px;
     text-align: center;
     background-color: orange;
+    height: 70px;
 }
 
 p{
